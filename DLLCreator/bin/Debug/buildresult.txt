@@ -1,0 +1,22 @@
+Построение начато 18.09.2019 1:07:46.
+__________________________________________________
+Проект "C:\Users\Akari\Documents\Visual Studio 2012\Projects\DLLCreator\DLLCreator\bin\Debug\jj\ForCompiling.csproj" (целевые объекты Clean;Build):
+
+Целевой объект CoreClean:
+    Создание каталога "obj\Debug\".
+Целевой объект PrepareForBuild:
+    Создание каталога "bin\Debug\".
+Целевой объект GenerateTargetFrameworkMonikerAttribute:
+  Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
+Целевой объект CoreCompile:
+    C:\Windows\Microsoft.NET\Framework\v4.0.30319\Csc.exe /noconfig /nowarn:1701,1702 /nostdlib+ /errorreport:prompt /warn:4 /define:DEBUG;TRACE /highentropyva+ /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Microsoft.CSharp.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Core.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.DataSetExtensions.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.Linq.dll" /debug+ /debug:full /filealign:512 /optimize- /out:obj\Debug\jj.dll /subsystemversion:6.00 /target:library /utf8output Main.cs Properties\AssemblyInfo.cs SaveFileDirOpen.cs "C:\Temp\.NETFramework,Version=v4.5.AssemblyAttributes.cs"
+Целевой объект CopyFilesToOutputDirectory:
+    Копирование файла из "obj\Debug\jj.dll" в "bin\Debug\jj.dll".
+    ForCompiling -> C:\Users\Akari\Documents\Visual Studio 2012\Projects\DLLCreator\DLLCreator\bin\Debug\jj\bin\Debug\jj.dll
+    Копирование файла из "obj\Debug\jj.pdb" в "bin\Debug\jj.pdb".
+
+Построение успешно завершено.
+    Предупреждений: 0
+    Ошибок: 0
+
+Затраченное время: 00:00:00.29

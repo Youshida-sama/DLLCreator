@@ -1,0 +1,10 @@
+C:\Users\Akari\Documents\Visual Studio 2012\Projects\DLLCreator\ForCompiling\bin\Debug\ForCompiling.dll
+C:\Users\Akari\Documents\Visual Studio 2012\Projects\DLLCreator\ForCompiling\bin\Debug\ForCompiling.pdb
+C:\Users\Akari\Documents\Visual Studio 2012\Projects\DLLCreator\ForCompiling\obj\Debug\ForCompiling.csprojResolveAssemblyReference.cache
+C:\Users\Akari\Documents\Visual Studio 2012\Projects\DLLCreator\ForCompiling\obj\Debug\ForCompiling.dll
+C:\Users\Akari\Documents\Visual Studio 2012\Projects\DLLCreator\ForCompiling\obj\Debug\ForCompiling.pdb
+C:\Users\Akari\Documents\Visual Studio 2012\Projects\DLLCreator\DLLCreator\bin\Debug\For\bin\Debug\ForCompiling.dll
+C:\Users\Akari\Documents\Visual Studio 2012\Projects\DLLCreator\DLLCreator\bin\Debug\For\bin\Debug\ForCompiling.pdb
+C:\Users\Akari\Documents\Visual Studio 2012\Projects\DLLCreator\DLLCreator\bin\Debug\For\obj\Debug\ForCompiling.csprojResolveAssemblyReference.cache
+C:\Users\Akari\Documents\Visual Studio 2012\Projects\DLLCreator\DLLCreator\bin\Debug\For\obj\Debug\ForCompiling.dll
+C:\Users\Akari\Documents\Visual Studio 2012\Projects\DLLCreator\DLLCreator\bin\Debug\For\obj\Debug\ForCompiling.pdb

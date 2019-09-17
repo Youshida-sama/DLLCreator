@@ -1,0 +1,5 @@
+C:\Users\Akari\Documents\Visual Studio 2012\Projects\DLLCreator\DLLCreator\bin\Debug\hh\bin\Debug\hh.dll
+C:\Users\Akari\Documents\Visual Studio 2012\Projects\DLLCreator\DLLCreator\bin\Debug\hh\bin\Debug\hh.pdb
+C:\Users\Akari\Documents\Visual Studio 2012\Projects\DLLCreator\DLLCreator\bin\Debug\hh\obj\Debug\ForCompiling.csprojResolveAssemblyReference.cache
+C:\Users\Akari\Documents\Visual Studio 2012\Projects\DLLCreator\DLLCreator\bin\Debug\hh\obj\Debug\hh.dll
+C:\Users\Akari\Documents\Visual Studio 2012\Projects\DLLCreator\DLLCreator\bin\Debug\hh\obj\Debug\hh.pdb

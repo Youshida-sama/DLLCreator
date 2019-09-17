@@ -1,0 +1,5 @@
+C:\Users\Akari\Documents\Visual Studio 2012\Projects\DLLCreator\DLLCreator\bin\Debug\ff\bin\Debug\ff.dll
+C:\Users\Akari\Documents\Visual Studio 2012\Projects\DLLCreator\DLLCreator\bin\Debug\ff\bin\Debug\ff.pdb
+C:\Users\Akari\Documents\Visual Studio 2012\Projects\DLLCreator\DLLCreator\bin\Debug\ff\obj\Debug\ForCompiling.csprojResolveAssemblyReference.cache
+C:\Users\Akari\Documents\Visual Studio 2012\Projects\DLLCreator\DLLCreator\bin\Debug\ff\obj\Debug\ff.dll
+C:\Users\Akari\Documents\Visual Studio 2012\Projects\DLLCreator\DLLCreator\bin\Debug\ff\obj\Debug\ff.pdb

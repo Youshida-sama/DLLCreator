@@ -1,0 +1,5 @@
+C:\Users\Akari\Documents\Visual Studio 2012\Projects\DLLCreator\DLLCreator\bin\Debug\ee\bin\Debug\ee.dll
+C:\Users\Akari\Documents\Visual Studio 2012\Projects\DLLCreator\DLLCreator\bin\Debug\ee\bin\Debug\ee.pdb
+C:\Users\Akari\Documents\Visual Studio 2012\Projects\DLLCreator\DLLCreator\bin\Debug\ee\obj\Debug\ForCompiling.csprojResolveAssemblyReference.cache
+C:\Users\Akari\Documents\Visual Studio 2012\Projects\DLLCreator\DLLCreator\bin\Debug\ee\obj\Debug\ee.dll
+C:\Users\Akari\Documents\Visual Studio 2012\Projects\DLLCreator\DLLCreator\bin\Debug\ee\obj\Debug\ee.pdb

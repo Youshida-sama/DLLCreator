@@ -1,0 +1,6 @@
+C:\Users\Akari\Documents\Visual Studio 2012\Projects\DLLCreator\DLLCreator\bin\Debug\DLLCreator.exe.config
+C:\Users\Akari\Documents\Visual Studio 2012\Projects\DLLCreator\DLLCreator\bin\Debug\DLLCreator.exe
+C:\Users\Akari\Documents\Visual Studio 2012\Projects\DLLCreator\DLLCreator\bin\Debug\DLLCreator.pdb
+C:\Users\Akari\Documents\Visual Studio 2012\Projects\DLLCreator\DLLCreator\obj\Debug\DLLCreator.csprojResolveAssemblyReference.cache
+C:\Users\Akari\Documents\Visual Studio 2012\Projects\DLLCreator\DLLCreator\obj\Debug\DLLCreator.exe
+C:\Users\Akari\Documents\Visual Studio 2012\Projects\DLLCreator\DLLCreator\obj\Debug\DLLCreator.pdb
